@@ -1,4 +1,4 @@
-# roadmap_basico_fron-tend
+
 # 👩‍💻 Portfólio de Projetos | Bruna Brozzi
 
 Bem-vinda(o) ao meu repositório principal! Aqui documento minha jornada e meus projetos práticos na transição e aprofundamento em **Engenharia de Software**.
